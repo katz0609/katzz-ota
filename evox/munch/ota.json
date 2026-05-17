@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "timestamp": 1779040815,
+      "timestamp": 1779048431,
       "filename": "EvolutionX-16.0-20260517-munch-11.7-Unofficial.zip",
-      "md5": "28bf219c219739958cfaf2dc5ad5c4f8",
-      "size": 3147488142,
-      "download": "https://downloads.sourceforge.net/project/katz-rom/EvolutionX-16.0-20260517-munch-11.7-Unofficial.zip",
-      "version": "16.0",
+      "md5": "12ac9d6803db4897982e6ba169146810",
+      "size": 3147486091,
+      "download": "https://sourceforge.net/projects/katz-rom/files/EvolutionX-16.0-20260517-munch-11.7-Unofficial.zip/download",
+      "version": "16.0.1",
       "maintainer": "Katzz",
       "forum": "",
       "firmware": "",
